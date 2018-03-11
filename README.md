@@ -54,14 +54,24 @@ We do not have any copyright attached with our system so anyone can use and exte
 1)Registration module: In the registration module old and new students can register to the system by entering their profile details with roll number.
 
 2)Login module: The registered students can login to the system by entering login id and password. If the person forgets password they can recover the password in the forgot password panel. The users can change the password in the change password page.
+
+
 3)Staff module:
 The staff module is for college staff to monitor students activities.
+
+
 4) Admin module: 
 The administrator has full authority of the website. Only administrator can add staff details.
+
+
 5)Event module:
 In the events module the administrator can publish events. Students will receive a published events through online.
+
+
 6)Report module:
 The report module which displays all activities of the student report.
+
+
 7)Feedback module: 
 Gives a graphical representation of the feedback
 
