@@ -42,6 +42,8 @@ Our system has 3 main features:
 1.	Add alumni
 2.	Add  Events
 3.	View Reports
+
+
 The alumni coordinator can add the students and a registration form will be provided along with login option.
 The alumni coordinator adds events which helps all the students to get notified.
 Here we are using a special feature of bulk E-mail which means that in no time many emails can be sent to the students.
