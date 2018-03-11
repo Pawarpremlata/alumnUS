@@ -60,7 +60,7 @@ We do not have any copyright attached with our system so anyone can use and exte
 The staff module is for college staff to monitor students activities.
 
 
-4) Admin module: 
+4)Admin module: 
 The administrator has full authority of the website. Only administrator can add staff details.
 
 
