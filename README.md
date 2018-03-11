@@ -3,6 +3,7 @@
 ____
 
 **Introduction:**
+
 An evolutionary alumni management system is a software that helps schools and universities to effectively connect with their alumni i.e. their ex-students. It is a system that helps all the passed out students to be socially connected with each other and are kept upto date about various events going on.
 The purpose of our system is to improve and add efficient features for betterment of alumni management.
 
