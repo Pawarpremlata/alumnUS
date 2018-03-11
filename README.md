@@ -2,7 +2,7 @@
 *alumnUS is an Alumni Management System for DBIT using python Flask framework*
 ____
 
-Introduction:
+**Introduction:**
 An evolutionary alumni management system is a software that helps schools and universities to effectively connect with their alumni i.e. their ex-students. It is a system that helps all the passed out students to be socially connected with each other and are kept upto date about various events going on.
 The purpose of our system is to improve and add efficient features for betterment of alumni management.
 
@@ -13,7 +13,7 @@ Advantages:
 4.	Job Opportunities
 
 
-Existing System:
+**Existing System:**
 
 Existing system is a manual one which is used to store the information like colleges details of the alumni, student details and students ID.
 More manual hours need to generate required reports and there is no pictorial representation.
@@ -21,7 +21,7 @@ There is no option such as feedback form.
 Many colleges maintain present and old students manually. Re collecting this data in the manual system is very difficult. If student needs any data about old students they have to approach college management. Overall collecting the information is very tedious task in this system.
 
 
-Proposed System:
+**Proposed System:**
 
 •	This project allows students to register through online.
 •	The students can easily access old students data.
@@ -30,7 +30,7 @@ Proposed System:
 •	System can send bulk Emails to any number of students hence increasing reliability
 
 
-What is our system (Features of our system):
+**What is our system (Features of our system):**
 
 This application keeps the data in a centralized way which is available to all the users simultaneously. 
 It is very easy to manage historical data in database. No specific training is required for the distributors to use this application. 
@@ -49,7 +49,7 @@ One more feature added in our system is that after taking feedback from the stud
 We do not have any copyright attached with our system so anyone can use and extend the system hence increasing the reliability of the system.
 
 
-Modules of the project:
+**Modules of the project:**
 
 1)Registration module: In the registration module old and new students can register to the system by entering their profile details with roll number.
 2)Login module: The registered students can login to the system by entering login id and password. If the person forgets password they can recover the password in the forgot password panel. The users can change the password in the change password page.
