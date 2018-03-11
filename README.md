@@ -78,7 +78,3 @@ The report module which displays all activities of the student report.
 7)Feedback module: 
 Gives a graphical representation of the feedback
 
-
-
-
-
